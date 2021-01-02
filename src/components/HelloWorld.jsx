@@ -3,7 +3,7 @@ import '../assets/styles/App.scss'
 
 const HelloWorld = ()=>{
   return (
-    <h1>HOLA MUNDOSASAasasasasa</h1>
+    <h1>HOLAA MUNDOSASAasasasasa</h1>
   )
 }
 export default HelloWorld
